@@ -10,7 +10,8 @@ A simple weather chatbot using flask which can tell the temperature for today an
 	3) Install flask and requests in the venv using:
 		pip install flask
 		pip install requests
-	4) Run the app using:
+	4) Place your weatherbit API key in the code.
+	5) Run the app using:
 		python app.py
 
 		and redirect to http://127.0.0.1:5000/
